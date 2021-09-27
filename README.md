@@ -33,5 +33,11 @@
 <br />
 <br />
 
+<div align="center">
+  <a href="https://github.com/William-Ferreira665">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Ferreira665&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Ferreira665&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
+
 ---
 
