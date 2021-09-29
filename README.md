@@ -1,6 +1,6 @@
 ### Hi there, I'm William 🖖🏽
 
-## I'm a Musician, Student, Developer, and Artist !!
+## I'm a Musician, Student, Developer, and Artist!!
 
 - 🔭 I just began the second term of my technical course
 - 🌱 I’m currently learning everything i can 😅 
