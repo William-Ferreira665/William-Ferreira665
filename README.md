@@ -13,7 +13,7 @@
 
 <img align="left" alt="will | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://www.instagram.com/fwilliamnunes/"/>
 <img align="left" alt="will | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="will | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="will | Instagram" width="22px" src="<img src="https://img.icons8.com/color/100/000000/instagram-new--v1.png"/>" />
 
 <br />
 
