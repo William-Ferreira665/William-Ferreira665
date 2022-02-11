@@ -2,10 +2,10 @@
 
 ## I'm a Musician, Student, Developer, and Artist!!
 
-- 🔭 I just began the second term of my technical course
+- 🔭 I just began the last term of my technical course
 - 🌱 I’m currently learning everything i can 😅 
 - 👯 I’m looking to collaborate with global tasks and needs with my knowledge
-- 📈 2021 Goals: Finish my course and get a job in the IT area
+- 📈 2022 Goals: Finish my course and get a job in the IT area
 - ⚡ I'm always open to new opportunities and challenges
 
 ### Connect with me:
