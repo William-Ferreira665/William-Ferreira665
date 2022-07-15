@@ -2,7 +2,7 @@
 
 ## I'm a Musician, Student, Developer, and Artist!!
 
-- 🔭 I just began the last term of my technical course
+- 🔭 Seeking for an opportunity
 - 🌱 I’m currently learning everything i can 😅 
 - 👯 I’m looking to collaborate with global tasks and needs with my knowledge
 - 📈 2022 Goals: Finish my course and get a job in the IT area
@@ -10,11 +10,9 @@
 
 ### Connect with me:
 
-
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img href="https://www.linkedin.com/in/williamferreira-developer/" align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img href="https://www.instagram.com/fwilliamnunes/" align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img href="" align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 <br />
 
