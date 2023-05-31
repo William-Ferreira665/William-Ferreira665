@@ -39,16 +39,16 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html" width="40" height="40" />                                                                                         
     target="_blank" rel="noreferrer"> <img
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
+      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img
     rel="noreferrer"> <img
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
@@ -60,13 +60,12 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="ferreira" 
-    bg_color=#808080/></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ferreirawill05_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ferreira" /></p>
+<div align="center">
+  <a href="https://github.com/ferreirawill05">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirawill05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirawill05&layout=compact&langs_count=7&theme=midnight--purple"/>
+</div>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ferreira" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ferreira" /></p>
