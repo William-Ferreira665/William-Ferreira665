@@ -73,5 +73,3 @@
 </div>
 
 <br>
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ferreira" /></div>
