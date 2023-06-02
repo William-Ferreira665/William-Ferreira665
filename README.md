@@ -12,7 +12,7 @@
 
 - 📈 2023 Goals: Get a job in the IT area
 
--⚡ I'm always open to new opportunities and challenges
+- ⚡ I'm always open to new opportunities and challenges
 
 <br>
 
