@@ -68,7 +68,7 @@
 <h3>Statistical Data :-</h3>
 <div align="center">
   <a href="https://github.com/ferreirawill05">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ferreirawill05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirawill05&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
