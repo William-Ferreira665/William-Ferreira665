@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="andoidstudio"
+    <img src="https://skillicons.dev/icons?i=androidstudio"
     alt="android" width="40" height="40" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -52,7 +52,7 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
     alt="kotlin" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://icons8.com.br/icon/laYYF3dV0Iew/microsoft-sql-server"
+    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"
     alt="sqlserver" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
@@ -70,7 +70,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
     alt="python" width="40" height="40" /> </a> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+    <img src="https://skillicons.dev/icons?i=react"
     alt="react" width="40" height="40" /> </a>
    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
