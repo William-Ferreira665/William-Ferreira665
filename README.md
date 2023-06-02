@@ -53,7 +53,7 @@
     alt="kotlin" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-    alt="sqlserver" width="40" height="40" /> </a> </a>
+    alt="sqlserver" width="40" height="40" color="white" /> </a> </a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
     alt="azure" width="40" height="40" /> </a>
