@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+    <img src="andoidstudio"
     alt="android" width="40" height="40" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -63,12 +63,9 @@
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     alt="git" width="40" height="40" /> </a>
-  <a href="github.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=figma"
-    alt="github" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-     alt="nodejs" width="40" height="40" /> </a>
+    alt="figma" width="40" height="40" /> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
     alt="python" width="40" height="40" /> </a> 
@@ -77,7 +74,7 @@
     alt="react" width="40" height="40" /> </a>
    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-    alt="react" width="40" height="40" /> </a> 
+    alt=".net" width="40" height="40" /> </a> 
 <br>
 
 <h3>Statistical Data :-</h3>
