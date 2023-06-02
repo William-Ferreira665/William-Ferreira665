@@ -20,10 +20,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/williamferreira-developer/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="ferreira" height="30" width="40" /></a>
   <a href="https://instagram.com/fwilliamnunes/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="ferreira" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -52,19 +52,19 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
     alt="kotlin" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
     alt="sqlserver" width="40" height="40" /> </a> </a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
     alt="azure" width="40" height="40" /> </a>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
     alt="terrform" width="40" height="40" /> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     alt="git" width="40" height="40" /> </a>
   <a href="github.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
     alt="github" width="40" height="40" /> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -81,10 +81,10 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<div align="center">
+<div>
   <a href="https://github.com/ferreirawill05">
-  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirawill05&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="center" height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferreirawill05&theme=midnight-purple&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirawill05&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <br>
