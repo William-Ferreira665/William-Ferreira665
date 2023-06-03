@@ -51,7 +51,7 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=kotlin" 
     alt="kotlin" width="40" height="40" /> </a> 
-  <a href="https://www.mysql.com/](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+  <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
     <img src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png"
     alt="sqlserver" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> 
