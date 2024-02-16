@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with global tasks and needs with my knowledge
 
-- 📈 2023 Goals: Get a job in the IT area
+- 📈 2024 Goals: Get a job in the IT area
 
 - ⚡ I'm always open to new opportunities and challenges
 
