@@ -4,13 +4,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 Seeking for an opportunity
+- 🔭 Always searching for new tendences within technology
 
-- 🌱 I’m currently learning everything i can 😅
+- 🌱 I’m currently learning everything I can 😅
 
 - 👯 I’m looking to collaborate with global tasks and needs with my knowledge
 
-- 📈 2024 Goals: Get a job in the IT area
+- 📈 2024 Goals: Succed in the IT area
 
 - ⚡ I'm always open to new opportunities and challenges
 
